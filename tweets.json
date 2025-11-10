@@ -1,15 +1,51 @@
 [
   {
-    "emoji": "🟢",
-    "username": "ゴン",
-    "text": "オレはもっと強くなる！",
+    "emoji": "🚈",
+    "username": "Metro Boomin",
+    "text": "Metro boomin want some more *****",
     "createdAt": "2025/1/1"
 
   },
   {
-    "emoji": "⚡️",
-    "username": "キルア",
-    "text": "オレはもう逃げない",
+    "emoji": "💨",
+    "username": "D.A got that dope",
+    "text": "D.A got that dope!",
     "createdAt": "2025/1/2"
+  },
+  {
+    "emoji": "🏎️",
+    "username": "Turbo",
+    "text": "Run that back, Turbo!",
+    "createdAt": "2025/1/3"
+  },
+  {
+    "emoji": "😷",
+    "username": "Wheezy",
+    "text": "Wheezy, outta here!",
+    "createdAt": "2025/1/4"
+  },
+  {
+    "emoji": "✈️",
+    "username": "Jetson",
+    "text": "Jetson made another one!",
+    "createdAt": "2025/1/5"
+  },
+  {
+    "emoji": "🗺️",
+    "username": "ATL Jacob",
+    "text": "ATL Jacob, ATL Jacob",
+    "createdAt": "2025/1/6"
+  },
+  {
+    "emoji": "🌭",
+    "username": "DJ Mustard",
+    "text": "Mustard on the beat, ho!",
+    "createdAt": "2025/1/7"
+  },
+  {
+    "emoji": "🤮",
+    "username": "Filthy",
+    "text": "Wake up, Filthy",
+    "createdAt": "2025/1/8"
   }
 ]
